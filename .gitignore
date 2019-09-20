@@ -24,3 +24,8 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+njd_kicad_prj.kicad_pcb
+njd_kicad_prj.pro
+njd_kicad_prj.sch
+fp-lib-table
+sym-lib-table
