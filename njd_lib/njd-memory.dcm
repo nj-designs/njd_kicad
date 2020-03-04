@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CAT24LC32
+D I2C Serial EEPROM, 16Kb, DIP-8/SOIC-8/TSSOP-8/DFN-8
+K I2C Serial EEPROM
+F https://docs.rs-online.com/0000/0900766b8121eacf.pdf
+$ENDCMP
+#
+#End Doc Library
