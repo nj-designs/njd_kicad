@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CLIFF_FC68131
+D Audio Jack, 2 Poles (Mono / TS), Grounded Sleeve (JY039-3P)
+K audio jack receptacle mono phone headphone TS connector
+F docs/CLIFF_FC68131.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MULTICOMP-MC32596
+D USB Type B, USB 2.0, Receptacle, 4 Ways, Through Hole Mount, Right Angle
+F njd_datasheet/multicomp_MC32596.pdf
+$ENDCMP
+#
+#End Doc Library
