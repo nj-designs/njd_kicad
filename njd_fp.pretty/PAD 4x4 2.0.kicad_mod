@@ -1,0 +1,114 @@
+(footprint "PAD 4x4 2.0"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "4x4 mm pad with 2.0mm centre hole")
+	(property "Reference" "REF**"
+		(at -0.6 21.36 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6819bde5-7c63-4bcf-be90-4068bec54394")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "PAD 4x4 2.0"
+		(at -0.6 22.86 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "67db46de-5c70-465a-8d1f-15500a6db38a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "PAD 4x4 2.0"
+		(at -0.6 21.86 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "74ffd6ce-ed33-407a-8252-e6ff6d434df6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.6 21.86 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd59906f-e08e-4be4-ab5b-32fa5998f82e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.6 21.86 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5e02b705-8ac3-42e3-abd7-8909a533c27c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -2.25 -2.25)
+		(end 2.25 2.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "f739e3f1-d758-48ce-aab9-e2482c140937")
+	)
+	(fp_rect
+		(start -2.25 -2.25)
+		(end 2.25 2.25)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "eaac740a-bed3-405b-86a2-45fdeba898e0")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.6 24.36 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e03c6a2f-b0af-4e55-b3f7-e9dc5bd34415")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 4 4)
+		(drill 2)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1640419948)
+		(uuid "76eb2eaa-81a1-4586-86a1-c3d76acab3ba")
+	)
+)

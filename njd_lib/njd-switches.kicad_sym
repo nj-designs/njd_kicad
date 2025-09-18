@@ -356,7 +356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "njd_fp:TS-1187A-B-A-B_XKB"
 			(at 0 -29.21 0)
 			(effects
 				(font
