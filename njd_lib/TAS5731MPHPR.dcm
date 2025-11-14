@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TAS5731MPHPR
+D 30-W Stereo Digital Audio Power Amplifier with DSP and 2.1 Mode
+K
+F http://www.ti.com/lit/gpn/tas5731m
+$ENDCMP
+#
+#End Doc Library
